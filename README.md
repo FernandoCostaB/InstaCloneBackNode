@@ -1,2 +1,2 @@
-# Backend, em nodejs, do InstaClone feito em reactjs e react native
+# Backend, em nodejs, do InstaRocket feito em reactjs e react native
 
